@@ -1,0 +1,1041 @@
+orch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:29    time: 4.4929  data: 3.3638
+Test: Total time: 0:00:26
+global correct: 94.8
+average row correct: ['97.6', '75.8']
+IoU: ['94.3', '65.0']
+mean IoU: 79.6
+dice coefficient: 0.786
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [51]  [0/5]  eta: 0:01:04  lr: 0.005291  loss: 0.4423 (0.4423)  time: 12.9942  data: 3.5573
+Epoch: [51]  [1/5]  eta: 0:00:44  lr: 0.005271  loss: 0.3927 (0.4175)  time: 11.2354  data: 1.7787
+Epoch: [51]  [2/5]  eta: 0:00:32  lr: 0.005252  loss: 0.4091 (0.4147)  time: 10.6763  data: 1.1860
+Epoch: [51]  [3/5]  eta: 0:00:20  lr: 0.005232  loss: 0.3809 (0.4062)  time: 10.3973  data: 0.8896
+Epoch: [51]  [4/5]  eta: 0:00:10  lr: 0.005212  loss: 0.3937 (0.4037)  time: 10.2048  data: 0.7118
+Epoch: [51] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:32    time: 4.6052  data: 3.5655
+Test: Total time: 0:00:28
+global correct: 94.8
+average row correct: ['98.1', '72.2']
+IoU: ['94.3', '63.8']
+mean IoU: 79.1
+dice coefficient: 0.777
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [52]  [0/5]  eta: 0:01:04  lr: 0.005193  loss: 0.3590 (0.3590)  time: 12.8427  data: 3.6509
+Epoch: [52]  [1/5]  eta: 0:00:44  lr: 0.005173  loss: 0.4195 (0.3892)  time: 11.1740  data: 1.8256
+Epoch: [52]  [2/5]  eta: 0:00:31  lr: 0.005154  loss: 0.4125 (0.3970)  time: 10.5755  data: 1.2172
+Epoch: [52]  [3/5]  eta: 0:00:20  lr: 0.005134  loss: 0.3695 (0.3901)  time: 10.2833  data: 0.9130
+Epoch: [52]  [4/5]  eta: 0:00:10  lr: 0.005115  loss: 0.4312 (0.3983)  time: 10.0703  data: 0.7304
+Epoch: [52] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:30    time: 4.5216  data: 3.4720
+Test: Total time: 0:00:28
+global correct: 94.7
+average row correct: ['97.7', '74.4']
+IoU: ['94.2', '64.3']
+mean IoU: 79.2
+dice coefficient: 0.781
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [53]  [0/5]  eta: 0:01:02  lr: 0.005095  loss: 0.4148 (0.4148)  time: 12.5456  data: 3.5353
+Epoch: [53]  [1/5]  eta: 0:00:43  lr: 0.005075  loss: 0.3709 (0.3928)  time: 10.9837  data: 1.7677
+Epoch: [53]  [2/5]  eta: 0:00:31  lr: 0.005056  loss: 0.3817 (0.3891)  time: 10.4183  data: 1.1787
+Epoch: [53]  [3/5]  eta: 0:00:20  lr: 0.005036  loss: 0.3595 (0.3817)  time: 10.0943  data: 0.8841
+Epoch: [53]  [4/5]  eta: 0:00:09  lr: 0.005017  loss: 0.3982 (0.3850)  time: 9.9593  data: 0.7073
+Epoch: [53] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:30    time: 4.5126  data: 3.3757
+Test: Total time: 0:00:27
+global correct: 94.6
+average row correct: ['97.2', '77.0']
+IoU: ['94.1', '64.6']
+mean IoU: 79.3
+dice coefficient: 0.783
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [54]  [0/5]  eta: 0:01:03  lr: 0.004997  loss: 0.4164 (0.4164)  time: 12.6733  data: 3.5417
+Epoch: [54]  [1/5]  eta: 0:00:44  lr: 0.004977  loss: 0.3814 (0.3989)  time: 11.0060  data: 1.7710
+Epoch: [54]  [2/5]  eta: 0:00:31  lr: 0.004958  loss: 0.3711 (0.3896)  time: 10.4402  data: 1.1810
+Epoch: [54]  [3/5]  eta: 0:00:20  lr: 0.004938  loss: 0.3826 (0.3879)  time: 10.1795  data: 0.8858
+Epoch: [54]  [4/5]  eta: 0:00:10  lr: 0.004918  loss: 0.3752 (0.3853)  time: 10.0139  data: 0.7087
+Epoch: [54] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:32    time: 4.6175  data: 3.5232
+Test: Total time: 0:00:28
+global correct: 94.8
+average row correct: ['98.0', '73.3']
+IoU: ['94.3', '64.3']
+mean IoU: 79.3
+dice coefficient: 0.780
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [55]  [0/5]  eta: 0:01:01  lr: 0.004899  loss: 0.3764 (0.3764)  time: 12.3118  data: 3.5729
+Epoch: [55]  [1/5]  eta: 0:00:43  lr: 0.004879  loss: 0.3790 (0.3777)  time: 10.7734  data: 1.7865
+Epoch: [55]  [2/5]  eta: 0:00:30  lr: 0.004859  loss: 0.4394 (0.3983)  time: 10.2911  data: 1.1911
+Epoch: [55]  [3/5]  eta: 0:00:20  lr: 0.004840  loss: 0.4138 (0.4022)  time: 10.0243  data: 0.8935
+Epoch: [55]  [4/5]  eta: 0:00:09  lr: 0.004820  loss: 0.3426 (0.3902)  time: 9.8657  data: 0.7148
+Epoch: [55] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:30    time: 4.5358  data: 3.3613
+Test: Total time: 0:00:27
+global correct: 94.7
+average row correct: ['97.5', '75.8']
+IoU: ['94.2', '64.7']
+mean IoU: 79.5
+dice coefficient: 0.784
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [56]  [0/5]  eta: 0:01:07  lr: 0.004800  loss: 0.3860 (0.3860)  time: 13.5240  data: 3.6901
+Epoch: [56]  [1/5]  eta: 0:00:46  lr: 0.004780  loss: 0.3876 (0.3868)  time: 11.6506  data: 1.8451
+Epoch: [56]  [2/5]  eta: 0:00:32  lr: 0.004761  loss: 0.3701 (0.3812)  time: 10.9182  data: 1.2301
+Epoch: [56]  [3/5]  eta: 0:00:21  lr: 0.004741  loss: 0.3508 (0.3736)  time: 10.5947  data: 0.9227
+Epoch: [56]  [4/5]  eta: 0:00:10  lr: 0.004721  loss: 0.4393 (0.3867)  time: 10.3626  data: 0.7382
+Epoch: [56] Total time: 0:00:52
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:32    time: 4.6023  data: 3.3048
+Test: Total time: 0:00:28
+global correct: 94.3
+average row correct: ['96.5', '79.2']
+IoU: ['93.7', '63.9']
+mean IoU: 78.8
+dice coefficient: 0.777
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [57]  [0/5]  eta: 0:01:03  lr: 0.004701  loss: 0.4951 (0.4951)  time: 12.6745  data: 3.4813
+Epoch: [57]  [1/5]  eta: 0:00:44  lr: 0.004682  loss: 0.3746 (0.4348)  time: 11.0594  data: 1.7408
+Epoch: [57]  [2/5]  eta: 0:00:31  lr: 0.004662  loss: 0.3502 (0.4066)  time: 10.5041  data: 1.1607
+Epoch: [57]  [3/5]  eta: 0:00:20  lr: 0.004642  loss: 0.4126 (0.4081)  time: 10.1926  data: 0.8706
+Epoch: [57]  [4/5]  eta: 0:00:09  lr: 0.004622  loss: 0.3889 (0.4043)  time: 9.9955  data: 0.6965
+Epoch: [57] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:32    time: 4.6055  data: 3.4979
+Test: Total time: 0:00:28
+global correct: 94.6
+average row correct: ['97.7', '74.0']
+IoU: ['94.1', '63.7']
+mean IoU: 78.9
+dice coefficient: 0.776
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [58]  [0/5]  eta: 0:01:03  lr: 0.004602  loss: 0.3618 (0.3618)  time: 12.7058  data: 3.5144
+Epoch: [58]  [1/5]  eta: 0:00:44  lr: 0.004583  loss: 0.3726 (0.3672)  time: 11.0588  data: 1.7575
+Epoch: [58]  [2/5]  eta: 0:00:31  lr: 0.004563  loss: 0.4494 (0.3946)  time: 10.4766  data: 1.1718
+Epoch: [58]  [3/5]  eta: 0:00:20  lr: 0.004543  loss: 0.3719 (0.3889)  time: 10.1590  data: 0.8790
+Epoch: [58]  [4/5]  eta: 0:00:09  lr: 0.004523  loss: 0.3565 (0.3824)  time: 9.9938  data: 0.7032
+Epoch: [58] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:29    time: 4.4551  data: 3.2995
+Test: Total time: 0:00:28
+global correct: 94.8
+average row correct: ['97.9', '73.7']
+IoU: ['94.3', '64.4']
+mean IoU: 79.3
+dice coefficient: 0.781
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [59]  [0/5]  eta: 0:01:01  lr: 0.004503  loss: 0.3878 (0.3878)  time: 12.3468  data: 3.5461
+Epoch: [59]  [1/5]  eta: 0:00:43  lr: 0.004483  loss: 0.3586 (0.3732)  time: 10.8392  data: 1.7732
+Epoch: [59]  [2/5]  eta: 0:00:30  lr: 0.004463  loss: 0.4248 (0.3904)  time: 10.2759  data: 1.1823
+Epoch: [59]  [3/5]  eta: 0:00:20  lr: 0.004444  loss: 0.3919 (0.3908)  time: 10.0105  data: 0.8868
+Epoch: [59]  [4/5]  eta: 0:00:09  lr: 0.004424  loss: 0.4292 (0.3985)  time: 9.8616  data: 0.7095
+Epoch: [59] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:31    time: 4.5805  data: 3.4599
+Test: Total time: 0:00:27
+global correct: 94.7
+average row correct: ['97.0', '78.5']
+IoU: ['94.1', '65.2']
+mean IoU: 79.6
+dice coefficient: 0.787
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [60]  [0/5]  eta: 0:01:01  lr: 0.004404  loss: 0.3467 (0.3467)  time: 12.3179  data: 3.4199
+Epoch: [60]  [1/5]  eta: 0:00:43  lr: 0.004384  loss: 0.3642 (0.3555)  time: 10.8026  data: 1.7102
+Epoch: [60]  [2/5]  eta: 0:00:30  lr: 0.004364  loss: 0.4848 (0.3986)  time: 10.3182  data: 1.1403
+Epoch: [60]  [3/5]  eta: 0:00:20  lr: 0.004344  loss: 0.3988 (0.3986)  time: 10.1068  data: 0.8553
+Epoch: [60]  [4/5]  eta: 0:00:09  lr: 0.004324  loss: 0.3626 (0.3914)  time: 9.9907  data: 0.6843
+Epoch: [60] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:28    time: 4.4382  data: 3.3470
+Test: Total time: 0:00:25
+global correct: 94.7
+average row correct: ['97.2', '77.4']
+IoU: ['94.1', '65.0']
+mean IoU: 79.6
+dice coefficient: 0.786
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [61]  [0/5]  eta: 0:01:02  lr: 0.004304  loss: 0.3761 (0.3761)  time: 12.5657  data: 3.5935
+Epoch: [61]  [1/5]  eta: 0:00:43  lr: 0.004284  loss: 0.4152 (0.3957)  time: 10.9654  data: 1.7970
+Epoch: [61]  [2/5]  eta: 0:00:31  lr: 0.004264  loss: 0.3776 (0.3897)  time: 10.4257  data: 1.1981
+Epoch: [61]  [3/5]  eta: 0:00:20  lr: 0.004244  loss: 0.3901 (0.3898)  time: 10.1468  data: 0.8987
+Epoch: [61]  [4/5]  eta: 0:00:10  lr: 0.004224  loss: 0.3455 (0.3809)  time: 10.0148  data: 0.7191
+Epoch: [61] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:29    time: 4.4587  data: 3.4068
+Test: Total time: 0:00:26
+global correct: 94.8
+average row correct: ['97.6', '75.5']
+IoU: ['94.2', '64.9']
+mean IoU: 79.6
+dice coefficient: 0.785
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [62]  [0/5]  eta: 0:01:03  lr: 0.004204  loss: 0.3893 (0.3893)  time: 12.6108  data: 3.4602
+Epoch: [62]  [1/5]  eta: 0:00:44  lr: 0.004184  loss: 0.3631 (0.3762)  time: 11.0355  data: 1.7304
+Epoch: [62]  [2/5]  eta: 0:00:31  lr: 0.004164  loss: 0.3955 (0.3826)  time: 10.5016  data: 1.1537
+Epoch: [62]  [3/5]  eta: 0:00:20  lr: 0.004144  loss: 0.3728 (0.3802)  time: 10.2370  data: 0.8654
+Epoch: [62]  [4/5]  eta: 0:00:10  lr: 0.004124  loss: 0.3516 (0.3745)  time: 10.0475  data: 0.6924
+Epoch: [62] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:29    time: 4.4650  data: 3.4139
+Test: Total time: 0:00:27
+global correct: 94.7
+average row correct: ['97.2', '77.7']
+IoU: ['94.2', '65.3']
+mean IoU: 79.7
+dice coefficient: 0.788
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [63]  [0/5]  eta: 0:00:57  lr: 0.004104  loss: 0.3747 (0.3747)  time: 11.4044  data: 3.5584
+Epoch: [63]  [1/5]  eta: 0:00:38  lr: 0.004084  loss: 0.3869 (0.3808)  time: 9.5954  data: 1.7793
+Epoch: [63]  [2/5]  eta: 0:00:28  lr: 0.004064  loss: 0.4312 (0.3976)  time: 9.4889  data: 1.1864
+Epoch: [63]  [3/5]  eta: 0:00:18  lr: 0.004044  loss: 0.3622 (0.3888)  time: 9.4106  data: 0.8898
+Epoch: [63]  [4/5]  eta: 0:00:09  lr: 0.004023  loss: 0.3499 (0.3810)  time: 9.4329  data: 0.7119
+Epoch: [63] Total time: 0:00:47
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:28    time: 4.4017  data: 3.3905
+Test: Total time: 0:00:25
+global correct: 94.8
+average row correct: ['97.5', '76.6']
+IoU: ['94.3', '65.3']
+mean IoU: 79.8
+dice coefficient: 0.789
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [64]  [0/5]  eta: 0:01:00  lr: 0.004003  loss: 0.3536 (0.3536)  time: 12.0826  data: 3.5209
+Epoch: [64]  [1/5]  eta: 0:00:43  lr: 0.003983  loss: 0.3874 (0.3705)  time: 10.8394  data: 1.7607
+Epoch: [64]  [2/5]  eta: 0:00:31  lr: 0.003963  loss: 0.3645 (0.3685)  time: 10.3519  data: 1.1741
+Epoch: [64]  [3/5]  eta: 0:00:20  lr: 0.003943  loss: 0.3820 (0.3719)  time: 10.0602  data: 0.8807
+Epoch: [64]  [4/5]  eta: 0:00:09  lr: 0.003923  loss: 0.4562 (0.3888)  time: 9.8910  data: 0.7046
+Epoch: [64] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:30    time: 4.5203  data: 3.4022
+Test: Total time: 0:00:27
+global correct: 94.9
+average row correct: ['97.8', '75.5']
+IoU: ['94.4', '65.4']
+mean IoU: 79.9
+dice coefficient: 0.789
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [65]  [0/5]  eta: 0:01:02  lr: 0.003903  loss: 0.3614 (0.3614)  time: 12.4727  data: 3.5028
+Epoch: [65]  [1/5]  eta: 0:00:43  lr: 0.003882  loss: 0.3871 (0.3743)  time: 10.9461  data: 1.7516
+Epoch: [65]  [2/5]  eta: 0:00:31  lr: 0.003862  loss: 0.4014 (0.3833)  time: 10.3429  data: 1.1679
+Epoch: [65]  [3/5]  eta: 0:00:20  lr: 0.003842  loss: 0.3500 (0.3750)  time: 10.0541  data: 0.8760
+Epoch: [65]  [4/5]  eta: 0:00:09  lr: 0.003822  loss: 0.3578 (0.3716)  time: 9.8923  data: 0.7008
+Epoch: [65] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:31    time: 4.5881  data: 3.5292
+Test: Total time: 0:00:27
+global correct: 94.9
+average row correct: ['97.7', '75.7']
+IoU: ['94.3', '65.3']
+mean IoU: 79.8
+dice coefficient: 0.789
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [66]  [0/5]  eta: 0:01:03  lr: 0.003801  loss: 0.3612 (0.3612)  time: 12.6824  data: 3.5339
+Epoch: [66]  [1/5]  eta: 0:00:44  lr: 0.003781  loss: 0.3525 (0.3569)  time: 11.0265  data: 1.7670
+Epoch: [66]  [2/5]  eta: 0:00:31  lr: 0.003761  loss: 0.3949 (0.3695)  time: 10.5539  data: 1.1782
+Epoch: [66]  [3/5]  eta: 0:00:20  lr: 0.003741  loss: 0.4253 (0.3835)  time: 10.2622  data: 0.8837
+Epoch: [66]  [4/5]  eta: 0:00:10  lr: 0.003720  loss: 0.3730 (0.3814)  time: 10.1118  data: 0.7070
+Epoch: [66] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:32    time: 4.6226  data: 3.4253
+Test: Total time: 0:00:28
+global correct: 94.9
+average row correct: ['98.0', '73.8']
+IoU: ['94.4', '64.8']
+mean IoU: 79.6
+dice coefficient: 0.785
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [67]  [0/5]  eta: 0:01:02  lr: 0.003700  loss: 0.3995 (0.3995)  time: 12.4365  data: 3.5726
+Epoch: [67]  [1/5]  eta: 0:00:43  lr: 0.003680  loss: 0.3529 (0.3762)  time: 10.8885  data: 1.7865
+Epoch: [67]  [2/5]  eta: 0:00:31  lr: 0.003659  loss: 0.3553 (0.3692)  time: 10.3827  data: 1.1912
+Epoch: [67]  [3/5]  eta: 0:00:20  lr: 0.003639  loss: 0.3538 (0.3654)  time: 10.1467  data: 0.8935
+Epoch: [67]  [4/5]  eta: 0:00:09  lr: 0.003619  loss: 0.3604 (0.3644)  time: 9.9852  data: 0.7149
+Epoch: [67] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:30    time: 4.5211  data: 3.3959
+Test: Total time: 0:00:28
+global correct: 94.9
+average row correct: ['98.2', '72.6']
+IoU: ['94.4', '64.5']
+mean IoU: 79.4
+dice coefficient: 0.782
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [68]  [0/5]  eta: 0:01:02  lr: 0.003598  loss: 0.3739 (0.3739)  time: 12.5379  data: 3.5557
+Epoch: [68]  [1/5]  eta: 0:00:43  lr: 0.003578  loss: 0.4162 (0.3950)  time: 10.9846  data: 1.7779
+Epoch: [68]  [2/5]  eta: 0:00:31  lr: 0.003558  loss: 0.3461 (0.3787)  time: 10.5376  data: 1.1854
+Epoch: [68]  [3/5]  eta: 0:00:20  lr: 0.003537  loss: 0.4037 (0.3849)  time: 10.2723  data: 0.8891
+Epoch: [68]  [4/5]  eta: 0:00:10  lr: 0.003517  loss: 0.3583 (0.3796)  time: 10.1067  data: 0.7114
+Epoch: [68] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:32    time: 4.6128  data: 3.5092
+Test: Total time: 0:00:28
+global correct: 94.9
+average row correct: ['98.2', '72.1']
+IoU: ['94.4', '64.3']
+mean IoU: 79.3
+dice coefficient: 0.780
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [69]  [0/5]  eta: 0:01:05  lr: 0.003496  loss: 0.3528 (0.3528)  time: 13.1143  data: 3.6346
+Epoch: [69]  [1/5]  eta: 0:00:45  lr: 0.003476  loss: 0.3980 (0.3754)  time: 11.2971  data: 1.8175
+Epoch: [69]  [2/5]  eta: 0:00:31  lr: 0.003456  loss: 0.3454 (0.3654)  time: 10.6535  data: 1.2118
+Epoch: [69]  [3/5]  eta: 0:00:20  lr: 0.003435  loss: 0.4124 (0.3771)  time: 10.3720  data: 0.9090
+Epoch: [69]  [4/5]  eta: 0:00:10  lr: 0.003415  loss: 0.4257 (0.3869)  time: 10.1701  data: 0.7273
+Epoch: [69] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:32    time: 4.6038  data: 3.5636
+Test: Total time: 0:00:28
+global correct: 94.9
+average row correct: ['97.7', '75.9']
+IoU: ['94.4', '65.5']
+mean IoU: 80.0
+dice coefficient: 0.790
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [70]  [0/5]  eta: 0:01:01  lr: 0.003394  loss: 0.3725 (0.3725)  time: 12.2085  data: 3.5302
+Epoch: [70]  [1/5]  eta: 0:00:43  lr: 0.003374  loss: 0.3655 (0.3690)  time: 10.8988  data: 1.7653
+Epoch: [70]  [2/5]  eta: 0:00:31  lr: 0.003353  loss: 0.4063 (0.3814)  time: 10.3982  data: 1.1771
+Epoch: [70]  [3/5]  eta: 0:00:20  lr: 0.003333  loss: 0.3520 (0.3741)  time: 10.1891  data: 0.8829
+Epoch: [70]  [4/5]  eta: 0:00:10  lr: 0.003312  loss: 0.3620 (0.3717)  time: 10.0569  data: 0.7064
+Epoch: [70] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:28    time: 4.4185  data: 3.3005
+Test: Total time: 0:00:28
+global correct: 94.9
+average row correct: ['97.7', '75.7']
+IoU: ['94.4', '65.5']
+mean IoU: 79.9
+dice coefficient: 0.790
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [71]  [0/5]  eta: 0:01:01  lr: 0.003291  loss: 0.3553 (0.3553)  time: 12.2936  data: 3.3976
+Epoch: [71]  [1/5]  eta: 0:00:43  lr: 0.003271  loss: 0.3460 (0.3506)  time: 10.7692  data: 1.6990
+Epoch: [71]  [2/5]  eta: 0:00:30  lr: 0.003250  loss: 0.3975 (0.3663)  time: 10.2952  data: 1.1328
+Epoch: [71]  [3/5]  eta: 0:00:20  lr: 0.003230  loss: 0.4430 (0.3855)  time: 10.0494  data: 0.8497
+Epoch: [71]  [4/5]  eta: 0:00:09  lr: 0.003209  loss: 0.3885 (0.3861)  time: 9.8704  data: 0.6798
+Epoch: [71] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:29    time: 4.4697  data: 3.3698
+Test: Total time: 0:00:26
+global correct: 94.9
+average row correct: ['97.9', '74.8']
+IoU: ['94.4', '65.3']
+mean IoU: 79.9
+dice coefficient: 0.788
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [72]  [0/5]  eta: 0:01:04  lr: 0.003188  loss: 0.3587 (0.3587)  time: 12.8116  data: 3.6119
+Epoch: [72]  [1/5]  eta: 0:00:44  lr: 0.003168  loss: 0.3461 (0.3524)  time: 11.1003  data: 1.8062
+Epoch: [72]  [2/5]  eta: 0:00:31  lr: 0.003147  loss: 0.3564 (0.3537)  time: 10.5164  data: 1.2043
+Epoch: [72]  [3/5]  eta: 0:00:20  lr: 0.003126  loss: 0.3869 (0.3620)  time: 10.2440  data: 0.9033
+Epoch: [72]  [4/5]  eta: 0:00:10  lr: 0.003106  loss: 0.4026 (0.3701)  time: 10.0354  data: 0.7227
+Epoch: [72] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:31    time: 4.5743  data: 3.4398
+Test: Total time: 0:00:27
+global correct: 94.9
+average row correct: ['97.7', '75.7']
+IoU: ['94.3', '65.4']
+mean IoU: 79.9
+dice coefficient: 0.789
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [73]  [0/5]  eta: 0:01:05  lr: 0.003085  loss: 0.3558 (0.3558)  time: 13.0125  data: 3.5936
+Epoch: [73]  [1/5]  eta: 0:00:45  lr: 0.003064  loss: 0.3712 (0.3635)  time: 11.2779  data: 1.7968
+Epoch: [73]  [2/5]  eta: 0:00:32  lr: 0.003043  loss: 0.4343 (0.3871)  time: 10.6865  data: 1.1981
+Epoch: [73]  [3/5]  eta: 0:00:20  lr: 0.003023  loss: 0.3725 (0.3835)  time: 10.3938  data: 0.8986
+Epoch: [73]  [4/5]  eta: 0:00:10  lr: 0.003002  loss: 0.3636 (0.3795)  time: 10.2406  data: 0.7189
+Epoch: [73] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:30    time: 4.5233  data: 3.4625
+Test: Total time: 0:00:28
+global correct: 94.9
+average row correct: ['97.4', '77.8']
+IoU: ['94.3', '65.9']
+mean IoU: 80.1
+dice coefficient: 0.793
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [74]  [0/5]  eta: 0:01:04  lr: 0.002981  loss: 0.4186 (0.4186)  time: 12.8848  data: 3.4172
+Epoch: [74]  [1/5]  eta: 0:00:44  lr: 0.002960  loss: 0.3808 (0.3997)  time: 11.1607  data: 1.7089
+Epoch: [74]  [2/5]  eta: 0:00:31  lr: 0.002940  loss: 0.3905 (0.3966)  time: 10.5749  data: 1.1394
+Epoch: [74]  [3/5]  eta: 0:00:20  lr: 0.002919  loss: 0.3524 (0.3856)  time: 10.3202  data: 0.8547
+Epoch: [74]  [4/5]  eta: 0:00:10  lr: 0.002898  loss: 0.3427 (0.3770)  time: 10.0888  data: 0.6838
+Epoch: [74] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:29    time: 4.4666  data: 3.4043
+Test: Total time: 0:00:28
+global correct: 95.0
+average row correct: ['97.7', '76.3']
+IoU: ['94.4', '65.9']
+mean IoU: 80.1
+dice coefficient: 0.792
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [75]  [0/5]  eta: 0:01:05  lr: 0.002877  loss: 0.4172 (0.4172)  time: 13.0572  data: 3.5556
+Epoch: [75]  [1/5]  eta: 0:00:44  lr: 0.002856  loss: 0.3530 (0.3851)  time: 11.2128  data: 1.7780
+Epoch: [75]  [2/5]  eta: 0:00:31  lr: 0.002835  loss: 0.3461 (0.3721)  time: 10.5769  data: 1.1855
+Epoch: [75]  [3/5]  eta: 0:00:20  lr: 0.002814  loss: 0.3494 (0.3664)  time: 10.2579  data: 0.8893
+Epoch: [75]  [4/5]  eta: 0:00:10  lr: 0.002793  loss: 0.3407 (0.3613)  time: 10.0662  data: 0.7115
+Epoch: [75] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:29    time: 4.4786  data: 3.4200
+Test: Total time: 0:00:27
+global correct: 95.0
+average row correct: ['98.0', '74.0']
+IoU: ['94.4', '65.1']
+mean IoU: 79.8
+dice coefficient: 0.787
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [76]  [0/5]  eta: 0:01:01  lr: 0.002772  loss: 0.3449 (0.3449)  time: 12.3875  data: 3.4815
+Epoch: [76]  [1/5]  eta: 0:00:42  lr: 0.002751  loss: 0.4002 (0.3725)  time: 10.7200  data: 1.7410
+Epoch: [76]  [2/5]  eta: 0:00:30  lr: 0.002730  loss: 0.3557 (0.3669)  time: 10.2309  data: 1.1609
+Epoch: [76]  [3/5]  eta: 0:00:20  lr: 0.002709  loss: 0.4249 (0.3814)  time: 10.0155  data: 0.8708
+Epoch: [76]  [4/5]  eta: 0:00:09  lr: 0.002688  loss: 0.3613 (0.3774)  time: 9.8828  data: 0.6966
+Epoch: [76] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:28    time: 4.4275  data: 3.3674
+Test: Total time: 0:00:27
+global correct: 94.9
+average row correct: ['97.9', '74.8']
+IoU: ['94.4', '65.3']
+mean IoU: 79.9
+dice coefficient: 0.788
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [77]  [0/5]  eta: 0:00:59  lr: 0.002667  loss: 0.4735 (0.4735)  time: 11.9361  data: 3.4786
+Epoch: [77]  [1/5]  eta: 0:00:42  lr: 0.002646  loss: 0.3277 (0.4006)  time: 10.5623  data: 1.7395
+Epoch: [77]  [2/5]  eta: 0:00:30  lr: 0.002625  loss: 0.4019 (0.4010)  time: 10.1104  data: 1.1598
+Epoch: [77]  [3/5]  eta: 0:00:19  lr: 0.002604  loss: 0.3974 (0.4001)  time: 9.8693  data: 0.8700
+Epoch: [77]  [4/5]  eta: 0:00:09  lr: 0.002583  loss: 0.3699 (0.3941)  time: 9.7131  data: 0.6960
+Epoch: [77] Total time: 0:00:49
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:28    time: 4.4368  data: 3.3704
+Test: Total time: 0:00:24
+global correct: 94.8
+average row correct: ['97.3', '78.1']
+IoU: ['94.3', '65.8']
+mean IoU: 80.0
+dice coefficient: 0.792
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [78]  [0/5]  eta: 0:01:03  lr: 0.002562  loss: 0.3679 (0.3679)  time: 12.6441  data: 3.4828
+Epoch: [78]  [1/5]  eta: 0:00:44  lr: 0.002541  loss: 0.3662 (0.3670)  time: 11.0961  data: 1.7416
+Epoch: [78]  [2/5]  eta: 0:00:31  lr: 0.002519  loss: 0.3582 (0.3641)  time: 10.4983  data: 1.1612
+Epoch: [78]  [3/5]  eta: 0:00:20  lr: 0.002498  loss: 0.3884 (0.3702)  time: 10.2373  data: 0.8711
+Epoch: [78]  [4/5]  eta: 0:00:10  lr: 0.002477  loss: 0.3979 (0.3757)  time: 10.1129  data: 0.6969
+Epoch: [78] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:30    time: 4.5198  data: 3.3292
+Test: Total time: 0:00:28
+global correct: 94.9
+average row correct: ['98.1', '72.9']
+IoU: ['94.4', '64.6']
+mean IoU: 79.5
+dice coefficient: 0.783
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [79]  [0/5]  eta: 0:01:04  lr: 0.002456  loss: 0.3646 (0.3646)  time: 12.8453  data: 3.5621
+Epoch: [79]  [1/5]  eta: 0:00:44  lr: 0.002434  loss: 0.3975 (0.3810)  time: 11.2149  data: 1.7811
+Epoch: [79]  [2/5]  eta: 0:00:32  lr: 0.002413  loss: 0.4487 (0.4036)  time: 10.6997  data: 1.1875
+Epoch: [79]  [3/5]  eta: 0:00:20  lr: 0.002392  loss: 0.3324 (0.3858)  time: 10.3646  data: 0.8907
+Epoch: [79]  [4/5]  eta: 0:00:10  lr: 0.002371  loss: 0.4071 (0.3901)  time: 10.1618  data: 0.7127
+Epoch: [79] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:31    time: 4.5792  data: 3.4512
+Test: Total time: 0:00:28
+global correct: 94.8
+average row correct: ['97.6', '75.9']
+IoU: ['94.2', '65.0']
+mean IoU: 79.6
+dice coefficient: 0.786
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [80]  [0/5]  eta: 0:01:01  lr: 0.002349  loss: 0.3800 (0.3800)  time: 12.3863  data: 3.5641
+Epoch: [80]  [1/5]  eta: 0:00:43  lr: 0.002328  loss: 0.3454 (0.3627)  time: 10.9341  data: 1.7822
+Epoch: [80]  [2/5]  eta: 0:00:31  lr: 0.002306  loss: 0.3315 (0.3523)  time: 10.3639  data: 1.1883
+Epoch: [80]  [3/5]  eta: 0:00:20  lr: 0.002285  loss: 0.4152 (0.3680)  time: 10.0620  data: 0.8913
+Epoch: [80]  [4/5]  eta: 0:00:09  lr: 0.002264  loss: 0.3732 (0.3691)  time: 9.9082  data: 0.7131
+Epoch: [80] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:28    time: 4.4204  data: 3.2398
+Test: Total time: 0:00:27
+global correct: 94.6
+average row correct: ['96.8', '79.9']
+IoU: ['94.0', '65.5']
+mean IoU: 79.8
+dice coefficient: 0.790
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [81]  [0/5]  eta: 0:01:01  lr: 0.002242  loss: 0.3695 (0.3695)  time: 12.3769  data: 3.5409
+Epoch: [81]  [1/5]  eta: 0:00:43  lr: 0.002221  loss: 0.3689 (0.3692)  time: 10.9835  data: 1.7706
+Epoch: [81]  [2/5]  eta: 0:00:31  lr: 0.002199  loss: 0.3861 (0.3749)  time: 10.5168  data: 1.1806
+Epoch: [81]  [3/5]  eta: 0:00:20  lr: 0.002178  loss: 0.3534 (0.3695)  time: 10.2593  data: 0.8856
+Epoch: [81]  [4/5]  eta: 0:00:10  lr: 0.002156  loss: 0.4473 (0.3851)  time: 10.0484  data: 0.7085
+Epoch: [81] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:30    time: 4.5102  data: 3.4269
+Test: Total time: 0:00:26
+global correct: 94.9
+average row correct: ['97.6', '76.8']
+IoU: ['94.4', '65.8']
+mean IoU: 80.1
+dice coefficient: 0.792
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [82]  [0/5]  eta: 0:01:04  lr: 0.002135  loss: 0.3605 (0.3605)  time: 12.8371  data: 3.6327
+Epoch: [82]  [1/5]  eta: 0:00:44  lr: 0.002113  loss: 0.3576 (0.3590)  time: 11.1374  data: 1.8164
+Epoch: [82]  [2/5]  eta: 0:00:31  lr: 0.002091  loss: 0.3646 (0.3609)  time: 10.6002  data: 1.2110
+Epoch: [82]  [3/5]  eta: 0:00:20  lr: 0.002070  loss: 0.3776 (0.3651)  time: 10.3256  data: 0.9083
+Epoch: [82]  [4/5]  eta: 0:00:10  lr: 0.002048  loss: 0.3662 (0.3653)  time: 10.1695  data: 0.7268
+Epoch: [82] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:31    time: 4.5949  data: 3.5372
+Test: Total time: 0:00:28
+global correct: 95.0
+average row correct: ['97.9', '75.1']
+IoU: ['94.4', '65.5']
+mean IoU: 80.0
+dice coefficient: 0.790
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [83]  [0/5]  eta: 0:01:06  lr: 0.002026  loss: 0.3455 (0.3455)  time: 13.2172  data: 3.6742
+Epoch: [83]  [1/5]  eta: 0:00:45  lr: 0.002005  loss: 0.3555 (0.3505)  time: 11.4965  data: 1.8372
+Epoch: [83]  [2/5]  eta: 0:00:32  lr: 0.001983  loss: 0.3884 (0.3631)  time: 10.7988  data: 1.2249
+Epoch: [83]  [3/5]  eta: 0:00:20  lr: 0.001961  loss: 0.3775 (0.3667)  time: 10.4494  data: 0.9188
+Epoch: [83]  [4/5]  eta: 0:00:10  lr: 0.001939  loss: 0.3807 (0.3695)  time: 10.2662  data: 0.7351
+Epoch: [83] Total time: 0:00:52
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:30    time: 4.5167  data: 3.4565
+Test: Total time: 0:00:28
+global correct: 94.9
+average row correct: ['97.4', '77.4']
+IoU: ['94.3', '65.7']
+mean IoU: 80.0
+dice coefficient: 0.791
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [84]  [0/5]  eta: 0:01:02  lr: 0.001917  loss: 0.3631 (0.3631)  time: 12.4282  data: 3.4818
+Epoch: [84]  [1/5]  eta: 0:00:43  lr: 0.001896  loss: 0.3697 (0.3664)  time: 10.9344  data: 1.7411
+Epoch: [84]  [2/5]  eta: 0:00:31  lr: 0.001874  loss: 0.3314 (0.3547)  time: 10.5399  data: 1.1610
+Epoch: [84]  [3/5]  eta: 0:00:20  lr: 0.001852  loss: 0.4396 (0.3760)  time: 10.3082  data: 0.8708
+Epoch: [84]  [4/5]  eta: 0:00:10  lr: 0.001830  loss: 0.3818 (0.3771)  time: 10.1028  data: 0.6967
+Epoch: [84] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:29    time: 4.4851  data: 3.4225
+Test: Total time: 0:00:27
+global correct: 94.8
+average row correct: ['97.2', '78.1']
+IoU: ['94.2', '65.5']
+mean IoU: 79.9
+dice coefficient: 0.790
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [85]  [0/5]  eta: 0:01:02  lr: 0.001808  loss: 0.4055 (0.4055)  time: 12.5137  data: 3.6497
+Epoch: [85]  [1/5]  eta: 0:00:44  lr: 0.001786  loss: 0.3597 (0.3826)  time: 11.1336  data: 1.8249
+Epoch: [85]  [2/5]  eta: 0:00:31  lr: 0.001764  loss: 0.4293 (0.3982)  time: 10.5527  data: 1.2167
+Epoch: [85]  [3/5]  eta: 0:00:20  lr: 0.001742  loss: 0.3557 (0.3875)  time: 10.2386  data: 0.9126
+Epoch: [85]  [4/5]  eta: 0:00:10  lr: 0.001720  loss: 0.3730 (0.3846)  time: 10.0228  data: 0.7302
+Epoch: [85] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:30    time: 4.5044  data: 3.3664
+Test: Total time: 0:00:28
+global correct: 94.8
+average row correct: ['97.3', '77.8']
+IoU: ['94.3', '65.7']
+mean IoU: 80.0
+dice coefficient: 0.791
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [86]  [0/5]  eta: 0:00:58  lr: 0.001698  loss: 0.3518 (0.3518)  time: 11.7781  data: 3.6528
+Epoch: [86]  [1/5]  eta: 0:00:41  lr: 0.001675  loss: 0.4575 (0.4047)  time: 10.3540  data: 1.8265
+Epoch: [86]  [2/5]  eta: 0:00:29  lr: 0.001653  loss: 0.3566 (0.3886)  time: 9.9959  data: 1.2179
+Epoch: [86]  [3/5]  eta: 0:00:19  lr: 0.001631  loss: 0.3306 (0.3741)  time: 9.9317  data: 0.9135
+Epoch: [86]  [4/5]  eta: 0:00:09  lr: 0.001609  loss: 0.4028 (0.3799)  time: 9.8133  data: 0.7309
+Epoch: [86] Total time: 0:00:49
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:34    time: 4.7486  data: 3.4479
+Test: Total time: 0:00:29
+global correct: 95.0
+average row correct: ['98.0', '74.5']
+IoU: ['94.5', '65.4']
+mean IoU: 79.9
+dice coefficient: 0.789
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [87]  [0/5]  eta: 0:01:02  lr: 0.001586  loss: 0.3711 (0.3711)  time: 12.5645  data: 3.4902
+Epoch: [87]  [1/5]  eta: 0:00:44  lr: 0.001564  loss: 0.3280 (0.3496)  time: 11.0232  data: 1.7453
+Epoch: [87]  [2/5]  eta: 0:00:31  lr: 0.001542  loss: 0.3666 (0.3553)  time: 10.4966  data: 1.1639
+Epoch: [87]  [3/5]  eta: 0:00:20  lr: 0.001519  loss: 0.3695 (0.3588)  time: 10.2635  data: 0.8730
+Epoch: [87]  [4/5]  eta: 0:00:10  lr: 0.001497  loss: 0.3759 (0.3622)  time: 10.1304  data: 0.6984
+Epoch: [87] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:29    time: 4.4895  data: 3.3968
+Test: Total time: 0:00:28
+global correct: 94.9
+average row correct: ['97.6', '76.6']
+IoU: ['94.4', '65.8']
+mean IoU: 80.1
+dice coefficient: 0.792
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [88]  [0/5]  eta: 0:01:03  lr: 0.001474  loss: 0.3754 (0.3754)  time: 12.6576  data: 3.5629
+Epoch: [88]  [1/5]  eta: 0:00:44  lr: 0.001452  loss: 0.4467 (0.4110)  time: 11.1793  data: 1.7817
+Epoch: [88]  [2/5]  eta: 0:00:31  lr: 0.001429  loss: 0.3607 (0.3942)  time: 10.6350  data: 1.1880
+Epoch: [88]  [3/5]  eta: 0:00:20  lr: 0.001407  loss: 0.3375 (0.3801)  time: 10.3864  data: 0.8911
+Epoch: [88]  [4/5]  eta: 0:00:10  lr: 0.001384  loss: 0.3475 (0.3736)  time: 10.1825  data: 0.7129
+Epoch: [88] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:33    time: 4.6830  data: 3.5869
+Test: Total time: 0:00:28
+global correct: 94.9
+average row correct: ['97.4', '77.8']
+IoU: ['94.3', '65.9']
+mean IoU: 80.1
+dice coefficient: 0.792
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [89]  [0/5]  eta: 0:01:04  lr: 0.001361  loss: 0.3573 (0.3573)  time: 12.9478  data: 3.4604
+Epoch: [89]  [1/5]  eta: 0:00:44  lr: 0.001339  loss: 0.3715 (0.3644)  time: 11.2323  data: 1.7305
+Epoch: [89]  [2/5]  eta: 0:00:32  lr: 0.001316  loss: 0.3725 (0.3671)  time: 10.6940  data: 1.1539
+Epoch: [89]  [3/5]  eta: 0:00:20  lr: 0.001293  loss: 0.4103 (0.3779)  time: 10.3824  data: 0.8655
+Epoch: [89]  [4/5]  eta: 0:00:10  lr: 0.001270  loss: 0.3525 (0.3728)  time: 10.1667  data: 0.6924
+Epoch: [89] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:33    time: 4.6830  data: 3.5763
+Test: Total time: 0:00:29
+global correct: 94.9
+average row correct: ['97.5', '77.3']
+IoU: ['94.3', '65.9']
+mean IoU: 80.1
+dice coefficient: 0.792
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [90]  [0/5]  eta: 0:01:03  lr: 0.001247  loss: 0.3734 (0.3734)  time: 12.6270  data: 3.6070
+Epoch: [90]  [1/5]  eta: 0:00:44  lr: 0.001225  loss: 0.3635 (0.3685)  time: 11.0327  data: 1.8035
+Epoch: [90]  [2/5]  eta: 0:00:31  lr: 0.001202  loss: 0.3708 (0.3693)  time: 10.5573  data: 1.2025
+Epoch: [90]  [3/5]  eta: 0:00:20  lr: 0.001179  loss: 0.4022 (0.3775)  time: 10.2392  data: 0.9020
+Epoch: [90]  [4/5]  eta: 0:00:10  lr: 0.001155  loss: 0.3559 (0.3732)  time: 10.0871  data: 0.7217
+Epoch: [90] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:32    time: 4.6467  data: 3.5294
+Test: Total time: 0:00:27
+global correct: 95.0
+average row correct: ['97.7', '76.3']
+IoU: ['94.4', '65.9']
+mean IoU: 80.2
+dice coefficient: 0.793
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [91]  [0/5]  eta: 0:01:01  lr: 0.001132  loss: 0.3461 (0.3461)  time: 12.2922  data: 3.5264
+Epoch: [91]  [1/5]  eta: 0:00:43  lr: 0.001109  loss: 0.3914 (0.3687)  time: 10.8186  data: 1.7634
+Epoch: [91]  [2/5]  eta: 0:00:31  lr: 0.001086  loss: 0.3750 (0.3708)  time: 10.3378  data: 1.1758
+Epoch: [91]  [3/5]  eta: 0:00:20  lr: 0.001063  loss: 0.3551 (0.3669)  time: 10.1194  data: 0.8820
+Epoch: [91]  [4/5]  eta: 0:00:09  lr: 0.001039  loss: 0.4114 (0.3758)  time: 9.9755  data: 0.7056
+Epoch: [91] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:36    time: 4.8304  data: 3.8051
+Test: Total time: 0:00:27
+global correct: 95.0
+average row correct: ['97.7', '76.4']
+IoU: ['94.4', '65.9']
+mean IoU: 80.2
+dice coefficient: 0.793
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [92]  [0/5]  eta: 0:01:03  lr: 0.001016  loss: 0.3480 (0.3480)  time: 12.6176  data: 3.4818
+Epoch: [92]  [1/5]  eta: 0:00:44  lr: 0.000992  loss: 0.3488 (0.3484)  time: 11.1101  data: 1.7411
+Epoch: [92]  [2/5]  eta: 0:00:31  lr: 0.000969  loss: 0.3933 (0.3634)  time: 10.6548  data: 1.1608
+Epoch: [92]  [3/5]  eta: 0:00:20  lr: 0.000945  loss: 0.3540 (0.3610)  time: 10.2851  data: 0.8707
+Epoch: [92]  [4/5]  eta: 0:00:10  lr: 0.000922  loss: 0.3996 (0.3688)  time: 10.0854  data: 0.6966
+Epoch: [92] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:29    time: 4.4996  data: 3.4540
+Test: Total time: 0:00:26
+global correct: 95.0
+average row correct: ['97.7', '76.1']
+IoU: ['94.4', '65.8']
+mean IoU: 80.1
+dice coefficient: 0.792
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [93]  [0/5]  eta: 0:01:00  lr: 0.000898  loss: 0.3444 (0.3444)  time: 12.1656  data: 3.6161
+Epoch: [93]  [1/5]  eta: 0:00:43  lr: 0.000874  loss: 0.3713 (0.3578)  time: 10.8234  data: 1.8083
+Epoch: [93]  [2/5]  eta: 0:00:31  lr: 0.000850  loss: 0.3970 (0.3709)  time: 10.4127  data: 1.2056
+Epoch: [93]  [3/5]  eta: 0:00:20  lr: 0.000826  loss: 0.3348 (0.3619)  time: 10.1386  data: 0.9044
+Epoch: [93]  [4/5]  eta: 0:00:09  lr: 0.000802  loss: 0.4160 (0.3727)  time: 9.9508  data: 0.7236
+Epoch: [93] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:32    time: 4.6300  data: 3.5417
+Test: Total time: 0:00:27
+global correct: 95.0
+average row correct: ['97.7', '76.4']
+IoU: ['94.4', '65.9']
+mean IoU: 80.2
+dice coefficient: 0.793
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [94]  [0/5]  eta: 0:01:03  lr: 0.000778  loss: 0.3654 (0.3654)  time: 12.6337  data: 3.5171
+Epoch: [94]  [1/5]  eta: 0:00:44  lr: 0.000754  loss: 0.3297 (0.3475)  time: 11.1426  data: 1.7586
+Epoch: [94]  [2/5]  eta: 0:00:31  lr: 0.000730  loss: 0.3416 (0.3456)  time: 10.6170  data: 1.1725
+Epoch: [94]  [3/5]  eta: 0:00:20  lr: 0.000705  loss: 0.3936 (0.3576)  time: 10.3000  data: 0.8795
+Epoch: [94]  [4/5]  eta: 0:00:10  lr: 0.000681  loss: 0.3842 (0.3629)  time: 10.1308  data: 0.7037
+Epoch: [94] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:30    time: 4.5277  data: 3.4622
+Test: Total time: 0:00:28
+global correct: 95.0
+average row correct: ['97.5', '77.2']
+IoU: ['94.4', '66.0']
+mean IoU: 80.2
+dice coefficient: 0.794
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [95]  [0/5]  eta: 0:01:04  lr: 0.000656  loss: 0.3588 (0.3588)  time: 12.9031  data: 3.5524
+Epoch: [95]  [1/5]  eta: 0:00:45  lr: 0.000632  loss: 0.3706 (0.3647)  time: 11.2866  data: 1.7764
+Epoch: [95]  [2/5]  eta: 0:00:32  lr: 0.000607  loss: 0.3400 (0.3565)  time: 10.7377  data: 1.1844
+Epoch: [95]  [3/5]  eta: 0:00:20  lr: 0.000582  loss: 0.3849 (0.3636)  time: 10.3391  data: 0.8884
+Epoch: [95]  [4/5]  eta: 0:00:10  lr: 0.000557  loss: 0.3412 (0.3591)  time: 10.1128  data: 0.7108
+Epoch: [95] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:30    time: 4.5355  data: 3.5045
+Test: Total time: 0:00:27
+global correct: 94.9
+average row correct: ['97.3', '78.4']
+IoU: ['94.3', '66.1']
+mean IoU: 80.2
+dice coefficient: 0.794
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [96]  [0/5]  eta: 0:01:05  lr: 0.000532  loss: 0.3859 (0.3859)  time: 13.0647  data: 3.5251
+Epoch: [96]  [1/5]  eta: 0:00:45  lr: 0.000507  loss: 0.3621 (0.3740)  time: 11.3101  data: 1.7626
+Epoch: [96]  [2/5]  eta: 0:00:32  lr: 0.000481  loss: 0.4133 (0.3871)  time: 10.7041  data: 1.1752
+Epoch: [96]  [3/5]  eta: 0:00:20  lr: 0.000456  loss: 0.3221 (0.3708)  time: 10.4377  data: 0.8816
+Epoch: [96]  [4/5]  eta: 0:00:10  lr: 0.000430  loss: 0.3568 (0.3680)  time: 10.2548  data: 0.7053
+Epoch: [96] Total time: 0:00:52
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:31    time: 4.5972  data: 3.4300
+Test: Total time: 0:00:28
+global correct: 94.9
+average row correct: ['97.2', '78.6']
+IoU: ['94.3', '66.1']
+mean IoU: 80.2
+dice coefficient: 0.794
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [97]  [0/5]  eta: 0:01:03  lr: 0.000404  loss: 0.3603 (0.3603)  time: 12.6144  data: 3.5282
+Epoch: [97]  [1/5]  eta: 0:00:46  lr: 0.000378  loss: 0.3441 (0.3522)  time: 11.5453  data: 1.7643
+Epoch: [97]  [2/5]  eta: 0:00:33  lr: 0.000352  loss: 0.3384 (0.3476)  time: 11.2817  data: 1.1764
+Epoch: [97]  [3/5]  eta: 0:00:22  lr: 0.000325  loss: 0.4132 (0.3640)  time: 11.0575  data: 0.8826
+Epoch: [97]  [4/5]  eta: 0:00:10  lr: 0.000298  loss: 0.3777 (0.3667)  time: 10.9160  data: 0.7061
+Epoch: [97] Total time: 0:00:55
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:02:47    time: 8.3532  data: 7.0842
+Test: Total time: 0:00:32
+global correct: 94.9
+average row correct: ['97.5', '77.6']
+IoU: ['94.4', '66.1']
+mean IoU: 80.2
+dice coefficient: 0.794
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [98]  [0/5]  eta: 0:01:01  lr: 0.000271  loss: 0.3578 (0.3578)  time: 12.3236  data: 3.9940
+Epoch: [98]  [1/5]  eta: 0:00:42  lr: 0.000244  loss: 0.3542 (0.3560)  time: 10.7122  data: 1.9973
+Epoch: [98]  [2/5]  eta: 0:00:30  lr: 0.000216  loss: 0.3971 (0.3697)  time: 10.3146  data: 1.3315
+Epoch: [98]  [3/5]  eta: 0:00:20  lr: 0.000188  loss: 0.3375 (0.3616)  time: 10.0540  data: 0.9987
+Epoch: [98]  [4/5]  eta: 0:00:09  lr: 0.000160  loss: 0.3975 (0.3688)  time: 9.9169  data: 0.7991
+Epoch: [98] Total time: 0:00:50
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:37    time: 4.8725  data: 3.8319
+Test: Total time: 0:00:29
+global correct: 95.0
+average row correct: ['97.6', '77.0']
+IoU: ['94.4', '66.1']
+mean IoU: 80.2
+dice coefficient: 0.794
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Epoch: [99]  [0/5]  eta: 0:01:03  lr: 0.000131  loss: 0.3561 (0.3561)  time: 12.7685  data: 3.6363
+Epoch: [99]  [1/5]  eta: 0:00:44  lr: 0.000101  loss: 0.3976 (0.3769)  time: 11.2045  data: 1.8183
+Epoch: [99]  [2/5]  eta: 0:00:31  lr: 0.000070  loss: 0.3467 (0.3668)  time: 10.5924  data: 1.2123
+Epoch: [99]  [3/5]  eta: 0:00:20  lr: 0.000038  loss: 0.3610 (0.3654)  time: 10.3733  data: 0.9094
+Epoch: [99]  [4/5]  eta: 0:00:10  lr: 0.000000  loss: 0.3790 (0.3681)  time: 10.2317  data: 0.7276
+Epoch: [99] Total time: 0:00:51
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+torch.Size([1, 256, 56, 56])
+Test:  [ 0/20]  eta: 0:01:29    time: 4.4872  data: 3.3570
+Test: Total time: 0:00:28
+global correct: 95.0
+average row correct: ['97.6', '77.1']
+IoU: ['94.4', '66.1']
+mean IoU: 80.3
+dice coefficient: 0.794
+training time 2:11:38
