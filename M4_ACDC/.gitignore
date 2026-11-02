@@ -1,0 +1,7 @@
+# 大文件不上传
+*.pth
+training/
+*.nii.gz
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
