@@ -67,6 +67,10 @@ python -u train_acdc.py --epochs 100 2>&1 | Tee-Object train_acdc_log.txt
 | 训练时长 | 1h38m / 100 epochs（RTX 3060 Laptop 6GB） |
 | 显存占用 | ~3.7 GB |
 
+
+## 可视化
+![标注可视化](images/visualize.png)
+![推理对比](images/inference_vis.png)
 ## 踩坑记录
 
 1. **Dataset 忘存 flag**：`__init__` 里必须 `self.train_flag = train`，否则增强逻辑报 `AttributeError`
