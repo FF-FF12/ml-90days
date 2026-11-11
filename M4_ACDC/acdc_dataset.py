@@ -4,6 +4,8 @@ import nibabel as nib
 import torch
 from torch.utils.data import Dataset
 import torch.nn.functional as F
+import random
+import torchvision.transforms.functional as TF
 root = r"D:\M4_ACDC\training" 
 class ACDCDataset(Dataset):
     def __init__(self, root, train=True):
@@ -48,6 +50,22 @@ class ACDCDataset(Dataset):
         mask = torch.from_numpy(mask).unsqueeze(0)
         img = F.pad(img, (0, 256 - img.shape[2], 0, 256 - img.shape[1]))   # pad 到 256×256
         mask = F.pad(mask, (0, 256 - mask.shape[2], 0, 256 - mask.shape[1]))
+        # ---------- 数据增强（只在训练集生效）----------
+        if self.train_flag:
+            # 随机水平翻转（心脏左右结构有语义，翻转是常见的几何增强）
+            if random.random() < 0.5:
+                img = TF.hflip(img)
+                mask = TF.hflip(mask)
+            # 小角度旋转 ±10°，医学图像方向有语义，角度不能大
+            if random.random() < 0.5:
+                angle = random.uniform(-10, 10)
+                img = TF.rotate(img, angle)
+                mask = TF.rotate(mask, angle)
+            # 亮度微扰（只改 img，不改 mask！）
+            if random.random() < 0.3:
+                factor = random.uniform(0.9, 1.1)
+                img = torch.clamp(img * factor, 0, 1)
+        # ------------------------------------------------
         return img, mask
 
 if __name__ == "__main__":
