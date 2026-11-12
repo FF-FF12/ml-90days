@@ -23,10 +23,7 @@
 ## 模型
 
 **TinyUnet**（轻量版 U-Net，`in_ch=1` 灰度输入），损失函数为
-**BCE + Dice Loss** 混合：
-
-- BCE 负责逐像素分类
-- Dice 直接优化重叠度，对抗前景占比小（类别不均衡）的问题
+**Dice Loss**（纯 Dice，直接优化前景重叠度，对抗前景占比小的类别不均衡问题）。
 
 ## 目录结构
 
@@ -73,6 +70,22 @@ python -u inference.py
 | 训练时长 | 1h38m / 100 epochs（RTX 3060 Laptop 6GB） |
 | 显存占用 | ~3.7 GB |
 
+## 第 11 周：调参实验（消融）
+
+在基准 0.8275 基础上做「一次只改一个变量」的对比实验，完整台账见
+[EXPERIMENTS.md](EXPERIMENTS.md)：
+
+| 实验 | 改动 | best val Dice |
+|---|---|---|
+| 基准（纯 Dice） | — | 0.8275 |
+| +Cosine 调度 | CosineAnnealingLR | 0.8460 |
+| +数据增强 | 翻转/旋转/亮度 | 0.8594 |
+| 100→200 ep | 训练时长翻倍 | ~0.8550 |
+| 纯 BCE | 损失换成 BCEWithLogitsLoss | **0.8680** ⭐ |
+
+结论：最优 = 纯 BCE + cosine（0.8680）。最有价值的发现是推翻了「纯 BCE 必退化」的预设，
+完整归因见 EXPERIMENTS.md。
+
 ## 可视化
 
 标注叠加（红/橙 = ground truth，绿 = 模型预测，重叠 = 黄色为正确分割）：
@@ -98,7 +111,7 @@ python -u inference.py
 ## 学到什么
 
 - 医学影像（NIfTI 格式）的读取与 3D→2D 切片处理
-- 针对**类别不均衡**设计损失函数（BCE + Dice 互补）
+- 损失函数的消融对比：纯 Dice vs 纯 BCE 在具体任务上的真实表现，破除「纯 BCE 必退化」的教条
 - Dataset / DataLoader 规范写法与数据增强的"同变"原则
 - 训练脚本的工程化：日志、最优权重保存、训练/验证分离
 - 推理阶段的标准流程：`model.eval()` + `torch.no_grad()` + 权重加载 + 结果后处理（sigmoid → 0.5 阈值 → 二值 mask）
